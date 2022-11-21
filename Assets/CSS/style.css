@@ -1,0 +1,85 @@
+
+
+.nav-1{
+    color: gray;
+
+    margin: 2% 5% 0% 30%;
+    font-size: 15px;
+
+}
+.nav-2{
+    color: gray;
+    margin: 2% 5% 0% 0%;
+
+    font-size: 15px;
+}
+
+.nav-3{
+    color: gray;
+    margin: 2% 5% 0% 0%;
+
+    font-size: 15px;
+}
+.nav-4{
+    color: gray;
+    margin: 2% 5% 0% 0%;
+
+    font-size: 15px;
+}
+
+.button{
+    background-color: hsl(255deg 43% 28%);
+    border: none;
+    font-size: 30px;
+    margin-right:10%;
+    color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
+.header{
+    display: flex;
+    font-size: 10px;
+    padding-top: 10%;
+    }
+.button-1{
+    background-color: hsl(255deg 43% 28%);
+    border-radius: 10px;
+    font-size:20px;
+    color:white;
+
+    
+}
+.para{
+    font-size: 40px;
+    Family:Condensed;
+}
+center{
+     margin-top: 300%;
+}
+.center-1{
+    display: flex;
+}
+.button-2{
+    background-color: hsl(255deg 43% 28%);
+    border: none;
+    border-radius: 5px;
+    font-size: 30px;
+    margin-left:2%;
+    padding: 20px;
+    color: white;
+
+}
+
+.last{
+    margin-top: 10%;
+}
+.flex{
+    display: flex;
+    margin-top: 10%;
+}
+.image{
+    padding-left: 20%;
+}
+#e-mail{
+    width: 40%;
+}
